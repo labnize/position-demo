@@ -1,0 +1,9 @@
+.pos{
+    position: relative;
+}
+
+.pos-pin-img{
+    width: 35px;
+    position: absolute;
+}
+
