@@ -7,3 +7,23 @@
     position: absolute;
 }
 
+#picDiv
+{
+    background:#fff;
+    /*margin:8px 8px 4px 0;*/
+    /*border:1px solid #666666;*/
+    padding:0;
+    min-width:420px;
+    min-height:420px;
+    width:100%;
+    float:left;
+    overflow:hidden;
+    position:relative;
+    cursor:move;
+}
+
+.dragAble
+{
+    position: absolute;
+    cursor: move;
+}
